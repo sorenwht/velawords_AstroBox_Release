@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "com.velawords.starcore",
+    "restype": "quick_app",
+    "name": "腕词汇",
+    "description": "【小米手环学英语神器——腕词汇✨】\n把英语课堂“戴”在手上，学习也能这么酷！\n\n🔥 为什么选择腕词汇？\n✅ 海量词库：小学～初中～高中～四六级～雅思～托福，单词量高达10w+！从课本到考试，全覆盖！\n✅ 离线学习：断开蓝牙也能用！学校、图书馆、路上…随时查单词，偷偷变学霸！\n✅ 适配机型：已支持小米手环10、10NFC、9Pro，抬手即学，超方便！\n\n📚 适合谁用？\n🎒 中小学生：背单词不枯燥，碎片时间轻松记！\n🏫 住校党：无需手机，手环就能查词，学习效率拉满！\n\n💬 加入我们，一起打卡学习！\n🐧 企鹅群①：1079203586（已满）\n🐧 企鹅群②：1083826636（已满）\n3群1033481576（已满)\n4群183705019\n（群内小伙伴都在用，快来一起组队背单词～）\n\n🚀 把英语装进手环，随时随地，想学就学！\n\n①付款3.5元，付款地址https://happp.cn/links/DA4E7158\n付款时请填写自己的QQ号便于联系\n设备码是唯一的，安装小程序后会有设备码，请勿随便填写！！\nhttps://pvcrzows.cn-nb1.rainapp.top/\n在上以上链接使用密钥，如果有邀请人请填写邀请人的QQ号\n如果付款后没找到密钥，可在这里查：https://www.happp.cn/orderquery 输入预留的QQ号。\n\n\n②注意:目前该软件完全适配小米手环10和10nfc，以及9pro，其他设备暂未适配，请斟酌后安装\n③教程\n用表盘自定义工具安装的教程在群相册里。 https://scn23rjvzxlq.feishu.cn/wiki/SVNewwCWdiiYPWk6B4zcUAOGnWh?from=from_copylink\n蓝奏云下载链接请复制到浏览器打开，QQ不支持下载。\n④目前仅对最新版本1.3.2提供支持，可在表盘自定义工具里面下载\n【表盘分享：腕词汇-全能单词词库词典工具箱 @银烛_】https://api.bandbbs.cn/wftools/bandbbs.html?code=A&state=1849559 点击链接，再选择浏览器咑閞；或椱ァ製这段描述₳MTg0OTU1OQ==₳后到👉◇表盘自定义工具👈、",
+    "preview": [
+      "poster.png",
+      "440.webp",
+      "441.webp",
+      "442.webp",
+      "443.webp"
+    ],
+    "icon": "logo.png",
+    "cover": "poster.png",
+    "author": [
+      {
+        "name": "星核工作室",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "作者github",
+      "url": "https://github.com/sorenwht"
+    },
+    {
+      "icon": "link",
+      "title": "购买链接",
+      "url": "https://happp.cn/links/DA4E7158"
+    },
+    {
+      "icon": "check-circle",
+      "title": "激活/查询链接",
+      "url": "https://star-core.shop"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.3.2",
+      "file_name": "com.velawords.starcore.10.release.1.3.2.rpk"
+    },
+    "xmb9p": {
+      "version": "1.3.2",
+      "file_name": "com.velawords.starcore.9pro.release.1.3.2.rpk"
+    }
+  },
+  "ext": {}
+}
